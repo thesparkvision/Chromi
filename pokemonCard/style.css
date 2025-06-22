@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+greeting {
+    font-family: 'Fredoka', sans-serif;
+}
+
+#pokemonCard {
+    text-align: center;
+    border: 5px black;
+    background-color: gold;
+    width: fit-content;
+    padding: 10px;
+    margin-top: 10px;
+    border-style: groove;
+    box-shadow: 
+        inset 0 1px 2px rgba(255, 255, 255, 0.5),
+        0 8px 24px rgba(0, 0, 0, 0.2);
+
+    .label {
+        font-family: 'Fredoka', sans-serif;
+    }
+}
+
+#knowMoreBtn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: linear-gradient(145deg, #d4af37, #f9d976);
+  color: #1e1e1e;
+  font-weight: 600;
+  border: 2px solid #fff8dc;
+  border-radius: 12px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+#knowMoreBtn:hover {
+  background: linear-gradient(145deg, #f7e38e, #ffe46b);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+}
