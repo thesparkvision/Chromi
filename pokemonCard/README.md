@@ -1,5 +1,5 @@
-## Extension Status
-On way to be published
+## Extension Link
+https://chromewebstore.google.com/detail/jcfccijcoicogkbjjhpblimgogmgdkkf?utm_source=item-share-cb
 
 ## Description
 Chrome Extension to get a random pokemon card. Install it and check with your friends who gets what pokemon.
