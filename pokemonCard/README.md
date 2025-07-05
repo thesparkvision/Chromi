@@ -4,6 +4,9 @@ https://chromewebstore.google.com/detail/jcfccijcoicogkbjjhpblimgogmgdkkf?utm_so
 ## Description
 Chrome Extension to get a random pokemon card. Install it and check with your friends who gets what pokemon.
 
+![image](https://github.com/user-attachments/assets/a156df52-4699-4353-8258-d5968a3d9626)
+
+
 ## How to Setup using the code
 
 You can follow these steps:
